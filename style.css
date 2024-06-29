@@ -7,11 +7,25 @@ body{
 }
 .input{
     color: white;
-    text-align: center;
+}
+#textbox{
+    background-color: rgb(233, 233, 233);
+}
+#textbox:focus{
+    background-color: wheat;
 }
 .list{
-    width: 100px;
+    width: fit-content;
     height: auto;
-    display: block;
-    background-color: white;
+}
+#listItem{
+    padding-bottom: 5px;
+}
+#done{
+    width:15px;
+    height:15px;
+    background:white;
+}
+#remove{
+    margin-left: 10px;
 }
