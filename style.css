@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(91, 91, 91);
+}
+.title{
+    color: white;
+    text-align: center;
+}
+.input{
+    color: white;
+    text-align: center;
+}
+.list{
+    width: 100px;
+    height: auto;
+    display: block;
+    background-color: white;
+}
